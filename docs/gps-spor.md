@@ -1,6 +1,6 @@
 # Gå et spor med GPS
 
-Lei av at GPS-sporet er unøyaktig, og inneholder for lite detaljer? Når du legger et spor til deg selv, eller noen andre, kan det noen ganger være kjekt å kunne se nøyaktig hvor sporet går. Om du skal kontrollere deg selv, eller sammenligne med sporet hunden har gått.
+Lei av at GPS-sporet er unøyaktig, og inneholder for lite detaljer? Når du legger et spor til deg selv, eller noen andre, kan det noen ganger være kjekt å kunne se nøyaktig hvor sporet går. Om du skal kontrollere deg selv, eller sammenligne med sporet hunden har gått og se om det er spesielle momenter en kanskje trenger å trene mer på.
 
 ## Spor på Garmin Alpha - "problemet"
 
