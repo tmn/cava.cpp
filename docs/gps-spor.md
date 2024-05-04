@@ -1,18 +1,18 @@
 # Gå et spor med GPS
 
-Lei av at GPS-sporet er unøyaktig, og inneholder for lite detaljer? Når du legger et spor til deg selv, eller noen andre, er det veldig kjekt å kunne se nøyaktig hvor sporet går. Også for å sammenligne sporet som hunden går i ettertid.
+Lei av at GPS-sporet er unøyaktig, og inneholder for lite detaljer? Når du legger et spor til deg selv, eller noen andre, kan det noen ganger være kjekt å kunne se nøyaktig hvor sporet går. Om du skal kontrollere deg selv, eller sammenligne med sporet hunden har gått.
 
 ## Spor på Garmin Alpha - "problemet"
 
 Vi tar for oss hovedsakelig Garmin Alpha GPS-er, men det er tilsvarende funksjonalitet på andre enheter også.
 
-Hvordan sporene registreres er som standard satt til å være "smart". Det den gjør da er at den registrerer nytt punkt når den merker en markant endring i retning, hastighet, eller høydemeter. Dette til fordel for strømforbruk og lagringsplass. Resultatet av slik registrering av punkter er at du får mindre nøyaktige spor da den kun lagrer et fåtall punkter over en strekning. Det du vil se er at sporet du akkurat la går i rette fine linjer gjennom terrenget, og inneholder ikke den mer detaljerte ruta "rundt den kenika", eller "forbi det treet".
+Hvordan sporene registreres er som standard satt til å være "**smart**". Da registrerer den nytt punkt kun når den merker en markant endring i retning, hastighet, eller høydemeter. Dette til fordel for strømforbruk og lagringsplass. Resultatet av slik registrering av punkter er at du får mindre nøyaktige spor da den kun lagrer et fåtall punkter over en strekning. Du vil se da at sporet du akkruat gikk vises i rette fine linjer gjennom terrenget, og inneholder ikke den mer detaljerte ruta "rundt den kenika", eller "forbi det treet".
 
-Dette er fint om du feks. går tur eller er på jakt, og trenger å tracke noe over lengre tid. For trening og sporlegging til hunden er ikke dette helt ideelt, men det finnes en løsning!
+Dette er fint om du feks. går tur eller jakt, og trenger å tracke noe over lengre tid. For trening og sporlegging til hunden er ikke dette helt ideelt, men det finnes en løsning!
 
 ## Spor med hund + Garmin Alpha
 
-Når en går spor med hund er en avhengig av mer nøyaktig GPS-spor med flere detaljer. Det er da ønskelig å få med retningsendringer, buer, og andre detaljer. Dette kan løses ved å be GPS-en registrere punkter oftere, og ikke med denne "smart"-funksjonen den har. Det vil trekke mer strøm av GPS-en, og ta mer lagringsplass (ikke kritisk om en er flink til å fjerne gamle spor fra GPS-en).
+Det er kanskje ønskelig å få med retningsendringer, buer, og andre detaljer når en _går spor_. Dette kan løses ved å be GPS-en registrere punkter oftere, og ikke med denne "smart"-funksjonen den har. Det vil trekke mer strøm av GPS-en, og ta mer lagringsplass (ikke kritisk om en er flink til å fjerne gamle spor fra GPS-en).
 
 **Eksempel på hvordan mer nøyaktig GPS-plotting kan se ut med hund:**
 
